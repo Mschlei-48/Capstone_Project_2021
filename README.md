@@ -14,7 +14,7 @@
 
 ### **Description**
 
-This project classifies brain tumor images as meningioma, pituitary,no_tumor and glioma tumor. Two deep learning models were used to classify the images and were compared in terms of accuracy and complexity, namely VGG-16 and EfficientNetB7. The best model was chosen with regards to one with the highest accuarcy and less complexity(how many training parameters the model has). The aim of the project was to find a deep learning model that improves the accuracy of brain tumor classification and has reduced complexity to allow the deployment of the model on mobile devices. The training process included the fine tuning of hyperparameters. The hyperparameters that were fine-tuned are optimizers, epochs,batch size and dropout value.
+This project classifies brain tumor images as meningioma, pituitary,no_tumor and glioma tumor. Two deep learning models were used to classify the images and were compared in terms of accuracy and complexity, namely VGG-16 and EfficientNetB7. The best model was chosen with regards to one with the highest accuarcy and less complexity(how many training parameters the model has). The aim of the project was to find a deep learning model that improves the accuracy of brain tumor classification and has reduced complexity to allow the deployment of the model on mobile devices. The model that would give the best accuracy while being less complex would then be deployed on a web app.The training process included the fine tuning of hyperparameters. The hyperparameters that were fine-tuned are optimizers, epochs,batch size and dropout value.
 
 ### **Project Content and Results**
 
@@ -22,7 +22,7 @@ This project classifies brain tumor images as meningioma, pituitary,no_tumor and
 
 The data used for this project was obtained from Kaggle and is  publicly available. Navoneel Chakrabarty and Swati Kanchan along with the team members Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar and Sameer Dedge(2020) collected the dataset.
 
-The dataset can be accessed from [Kaggle](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)
+The dataset can be accessed from [Kaggle](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri).
 
 #### **Sample of the dataset**
 
