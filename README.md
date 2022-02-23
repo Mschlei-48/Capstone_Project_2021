@@ -58,9 +58,10 @@ EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 1
  The EfficientNetB7 was deployed on the web app. Below is a demo of the app. A user can upload an MRI by dragging and dropping or by browsing the local files.
  
  
-![DemoWebApp](https://user-images.githubusercontent.com/83508295/155421585-e130aa3a-d71e-45b6-a97a-12153577aca1.png)
+![Demo_WebApp](https://user-images.githubusercontent.com/83508295/155426072-6c23e532-7331-4eb4-960e-3d1e10917575.png)
 
 ### **References**
+
 
 Tan,M & Le,Q. 2019. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. Proceedings of the 36 th International Conference on Machine Learning 7:1-11.
 
