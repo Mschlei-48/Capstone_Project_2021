@@ -28,6 +28,13 @@ The link for the dataset:https://www.kaggle.com/sartajbhuvaji/brain-tumor-classi
 
 ![Picture1](https://user-images.githubusercontent.com/83508295/155328394-b7416b1d-9fef-4357-a436-2656df964fa3.png)
 
+The images were pre-processed with respect to each model's pre-processing requirements.
+
+#### **Sample of the pre-processed images**
+
+![Picture2](https://user-images.githubusercontent.com/83508295/155329044-5bfc6953-c48a-41bc-8c90-435729ed35eb.png)
+
+
 
 
 
