@@ -7,9 +7,10 @@
 
 ## **Project Layout**
 
-1. System Specifications
-2. Project Content and Results
-3. Acknowledgements
+1. Description
+2. System Specifications
+3. Project Content and Results
+4. Acknowledgements
 
 ## **Description**
 
