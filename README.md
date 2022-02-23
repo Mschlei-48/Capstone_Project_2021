@@ -41,7 +41,7 @@ The models were both first fine-tuned with repsect to the hyperparameters mentio
 From the results, EfficientNetB7  gave the highest accuracy and was the less complex model in terms of trainable parameters.
 EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 138 million trainable parameters, and EfficientNetB7 gave the highest accuracy. 
 
-### **Results**
+### **Table of Results**
 
 
 
