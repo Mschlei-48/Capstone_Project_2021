@@ -43,6 +43,7 @@ EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 1
 ### **Results**
 
 
+
  ![Picture3](https://user-images.githubusercontent.com/83508295/155330703-b207eae2-cf20-4bb2-84dd-3be370f24540.png)
 
 
