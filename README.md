@@ -22,7 +22,7 @@ This project classifies brain tumor images as meningioma, pituitary,no_tumor and
 
 The data used for this project was obtained from Kaggle and is  publicly available. Navoneel Chakrabarty and Swati Kanchan along with the team members Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar and Sameer Dedge(2020) collected the dataset.
 
-The link for the dataset:https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+The dataset can be accessed from [Kaggle](https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri)
 
 #### **Sample of the dataset**
 
