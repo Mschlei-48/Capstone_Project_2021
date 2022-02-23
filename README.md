@@ -8,8 +8,8 @@
 ## **Project Layout**
 
 1. Description
-3. Project Content and Results
-4. Acknowledgements
+2. Project Content and Results
+
 
 ### **Description**
 
