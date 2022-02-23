@@ -66,6 +66,19 @@ EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 1
 
 ### **References**
 
+Tan,M & Le,Q. 2019. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks. Proceedings of the 36 th International Conference on Machine Learning 7:1-11.
+
+Badza,M & Barjaktarovi´,M.2020. Classification of Brain Tumors from MRI Images Using a Convolutional Neural Network.applied sciences 13:1-13.
+
+
+Kang,J & Ullah,Z &Gwak,J.2021. MRI-Based Brain Tumor Classification Using Ensemble of Deep Features and Machine Learning Classifiers.applied sciences 13:1-21.
+
+Irmak,E.2021. Multi-Classification of Brain Tumor MRI Images Using Deep Convolutional Neural Network with Fully Optimized Framework. Iranian Journal of Science and Technology, Transactions of Electrical Engineering 22:1-22.
+
+Magadza,T.2021. Deep Learning for Brain Tumor Segmentation : A Survey of State-of-the-Art. Journal of Imaging 22:1-22
+
+
+
 
 
 
