@@ -53,10 +53,6 @@ EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 1
 
  
  
- 3. Conclusions
- 
- From the results it was concluded that EfficientNetB7 was the best model compared to VGG-16. It gave the highest accuracy and was also the less complex model.
- 
  ### **Web App Demo**
  
  The EfficientNetB7 was deployed on the web app. Below is a demo of the app. A user can upload an MRI by dragging and dropping or by browsing the local files.
