@@ -23,7 +23,10 @@ The data used for this project was obtained from Kaggle and is  publicly availab
 
 The link for the dataset:https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
+-Sample of the dataset-
 
+
+![Picture1](https://user-images.githubusercontent.com/83508295/155328394-b7416b1d-9fef-4357-a436-2656df964fa3.png)
 
 
 
