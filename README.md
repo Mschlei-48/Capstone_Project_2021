@@ -35,6 +35,7 @@ The images were pre-processed with respect to each model's pre-processing requir
 ![Picture2](https://user-images.githubusercontent.com/83508295/155329044-5bfc6953-c48a-41bc-8c90-435729ed35eb.png)
 
 2. Results
+
 The models were both first fine-tuned with repsect to the hyperparameters mentioned above. The hyperparameters that gave the best accuracy were then used for the main model training.
 
 From the results, EfficientNetB7  gave the highest accuracy and was the less complex model in terms of trainable parameters.
