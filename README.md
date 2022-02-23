@@ -47,11 +47,14 @@ EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 1
 
 
  ![Picture3](https://user-images.githubusercontent.com/83508295/155330703-b207eae2-cf20-4bb2-84dd-3be370f24540.png)
+
  
  
  3. Conclusions
  
  From the results it was concluded that EfficientNetB7 was the best model compared to VGG-16. It gave the highest accuracy and was also the less complex model.
+ 
+ ### **Web App**
 
 
 
