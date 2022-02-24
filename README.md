@@ -40,10 +40,10 @@ The images were pre-processed with respect to each model's pre-processing requir
 
 2. Results
 
-The models were both first fine-tuned with repsect to the hyperparameters optimizers, epochs,batch size and dropout value. The hyperparameters that gave the best accuracy were then used for the main model training.
+The models were both first fine-tuned with respect to the hyperparameters optimizers, epochs,batch size and dropout value. The optimum hyperparameters were then used for the main model training.
 
 From the results, EfficientNetB7  gave the highest accuracy and was the less complex model in terms of trainable parameters.
-EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 138 million trainable parameters, and EfficientNetB7 gave the highest accuracy. 
+EfficientNetB7 has a total of 66 million trainable parameters while VGG-16 has 138 million trainable parameters, which made EfficientNetB7 the best model to be deployed on the web app. 
 
 #### **Table of Results**
 
